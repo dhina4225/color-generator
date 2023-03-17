@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+}
+body {
+  width: 100vw;
+}
+
+.title {
+  text-align: center;
+}
+.color-box {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.box-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 2rem;
+  display: flex;
+  align-items:center ;
+  justify-content: center;
+  
+}
+.main{
+  
+
+}
